@@ -4,14 +4,12 @@ A full-stack serverless web application built using **React** and **AWS Amplify*
 
 This project demonstrates how to design, deploy, and manage cloud infrastructure using **Infrastructure as Code (IaC)** while integrating it with a modern frontend.
 
----
 
 ## 🔗 Live Demo
 https://dev.d2a1ilvgyr7uig.amplifyapp.com/
 
 > Note: Backend resources have been torn down after deployment to avoid costs. Screenshots below show the working application.
 
----
 
 ## 🧱 Tech Stack
 
@@ -29,7 +27,6 @@ https://dev.d2a1ilvgyr7uig.amplifyapp.com/
 - AWS Amplify Console
 - AWS CloudFormation (IaC)
 
----
 
 ## 🧠 Architecture
 
@@ -43,7 +40,6 @@ API Gateway (REST)
 ↓
 AWS Lambda
 
----
 
 ## ✨ Features
 - REST API with dynamic path parameters
@@ -53,7 +49,6 @@ AWS Lambda
 - Frontend deployed using Amplify Console
 - Safe teardown of cloud resources after use
 
----
 
 ## 📸 Screenshots
 
@@ -62,7 +57,6 @@ Screenshots of the working application and AWS resources are available in the `s
 - REST API response
 - Lambda function code in AWS Console
 
----
 
 ## 🚀 Run Locally
 
