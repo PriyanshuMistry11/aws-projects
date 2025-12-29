@@ -30,8 +30,6 @@ https://dev.d2a1ilvgyr7uig.amplifyapp.com/
 
 ## 🧠 Architecture
 
-## Architecture
-
 React (Frontend)
 ↓
 AWS Amplify
